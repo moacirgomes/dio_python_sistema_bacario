@@ -1,24 +1,24 @@
 # dio_python_sistema_bacario
-Aqui está um exemplo de conteúdo para o arquivo `README.md` do seu projeto:
+
 
 ```markdown
 # Sistema Bancário em Python
 
 Este é um projeto de sistema bancário desenvolvido em Python. O sistema permite a realização de operações bancárias básicas, como depósitos, saques, transferências e consultas de saldo. O projeto inclui uma interface gráfica para facilitar a interação do usuário.
 
-## Estrutura do Projeto
+# Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
 
-- `dados_bancarios.py`: Contém as classes e funções para gerenciar os dados bancários dos clientes.
-- `gui.py`: Implementa a interface gráfica do sistema.
-- `main.py`: O ponto de entrada do programa, onde a aplicação é iniciada.
-- `operacoes.py`: Contém as funções para realizar operações bancárias.
-- `testes.py`: Inclui testes unitários para verificar o funcionamento do sistema.
-- `utils.py`: Funções utilitárias que são usadas em diferentes partes do sistema.
-- `README.md`: Este arquivo, que fornece uma visão geral do projeto.
+- dados_bancarios.py: Contém as classes e funções para gerenciar os dados bancários dos clientes.
+- gui.py: Implementa a interface gráfica do sistema.
+- main.py: O ponto de entrada do programa, onde a aplicação é iniciada.
+- operacoes.py: Contém as funções para realizar operações bancárias.
+- testes.py: Inclui testes unitários para verificar o funcionamento do sistema.
+- utils.py: Funções utilitárias que são usadas em diferentes partes do sistema.
+- README.md: Este arquivo, que fornece uma visão geral do projeto.
 
-## Como Executar o Projeto
+# Como Executar o Projeto
 
 1. Clone o repositório para o seu ambiente local:
    ```bash
@@ -35,7 +35,7 @@ O projeto está organizado da seguinte forma:
    python main.py
    ```
 
-## Requisitos
+# Requisitos
 
 - Python 3.x
 - Bibliotecas listadas em `requirements.txt` (se aplicável)
