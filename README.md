@@ -16,7 +16,6 @@ O projeto está organizado da seguinte forma:
 - operacoes.py: Contém as funções para realizar operações bancárias.
 - testes.py: Inclui testes unitários para verificar o funcionamento do sistema.
 - utils.py: Funções utilitárias que são usadas em diferentes partes do sistema.
-- README.md: Este arquivo, que fornece uma visão geral do projeto.
 
 # Como Executar o Projeto
 
